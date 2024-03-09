@@ -21,6 +21,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             sayilar2 = sayilar3;
             sayilar3[0] = 34;
             Console.WriteLine(sayilar1[0]);
+
+            //testtest
         }
     }
 }
